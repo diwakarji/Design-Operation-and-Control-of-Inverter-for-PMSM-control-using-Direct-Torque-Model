@@ -1,0 +1,1 @@
+# Design-Operation-and-Control-of-Inverter-for-PMSM-control-using-Direct-Torque-Model
